@@ -3,3 +3,7 @@ return a+b}
 
 resta(a,b){
 return a-b}
+
+
+multiplicaion(a,b){
+return a-b}
