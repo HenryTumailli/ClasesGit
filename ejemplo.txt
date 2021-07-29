@@ -1,2 +1,5 @@
 suma(a,b){
 return a+b}
+
+multiplicación(a,b){
+return a*b}
